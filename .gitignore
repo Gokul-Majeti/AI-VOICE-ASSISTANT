@@ -1,0 +1,10 @@
+# Ignore the local Python virtual environment
+venv/
+.venv/
+
+# Ignore Python compiled bytecode folders
+__pycache__/
+*.pyc
+
+# Ignore audio cache files generated during runtime (if any)
+*.wav
